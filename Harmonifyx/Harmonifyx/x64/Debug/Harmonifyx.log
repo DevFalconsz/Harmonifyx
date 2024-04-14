@@ -1,0 +1,3 @@
+﻿  Harmonifyx.cpp
+C:\Users\oiusu\Desktop\source\Harmonifyx\Harmonifyx\Harmonifyx.cpp(198,34): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  Harmonifyx.vcxproj -> C:\Users\oiusu\Desktop\source\Harmonifyx\x64\Debug\Harmonifyx.exe
